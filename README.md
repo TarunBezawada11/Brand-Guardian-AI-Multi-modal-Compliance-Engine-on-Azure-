@@ -14,7 +14,7 @@ The entire pipeline is orchestrated using LangGraph, with LangSmith for tracing 
 
 ## Architecture
 
-![Brand Guardian Architecture](BrandArch.jpeg)
+![Brand Guardian Architecture](https://github.com/Brand_Guardian/ComplianceQAPipeline/BrandArch.jpeg)
 
 ## Tech Stack
 
